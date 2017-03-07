@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="26cm" height="32cm" viewBox="198 98 503 635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #e5e5e5" x="200" y="100" width="500" height="632"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4d4d4d" x="200" y="100" width="500" height="632"/>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="280" y="300" width="100" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="289" y="323.914">
+      <tspan x="289" y="323.914">Họ và tên</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="280" y="360" width="100" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="289" y="383.914">
+      <tspan x="289" y="383.914">Ngày sinh</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="280" y="420" width="91.3" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="289" y="443.914">
+      <tspan x="289" y="443.914">SDT</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="280" y="480" width="100" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="289" y="503.914">
+      <tspan x="289" y="503.914">Email</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="300" width="200" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="400" y="300" width="200" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="409" y="323.914">
+      <tspan x="409" y="323.914">Nguyễn Văn A</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="360" width="200" height="41.2441"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="400" y="360" width="200" height="41.2441"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="409" y="384.536">
+      <tspan x="409" y="384.536">01/01/95</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="420" width="200" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="400" y="420" width="200" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="409" y="443.914">
+      <tspan x="409" y="443.914">0123456789</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="480" width="200" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="400" y="480" width="200" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="409" y="503.914">
+      <tspan x="409" y="503.914">ngvana@gmail.com</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="280" y="240" width="100" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="289" y="263.914">
+      <tspan x="289" y="263.914">Mã</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="240" width="200" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="400" y="240" width="200" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="409" y="263.914">
+      <tspan x="409" y="263.914">0123</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="280" y="540" width="100" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="289" y="563.914">
+      <tspan x="289" y="563.914">Lớp</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="540" width="200" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="400" y="540" width="200" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="409" y="563.914">
+      <tspan x="409" y="563.914">SOA 01</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="280" y="600" width="100" height="40"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="289" y="623.914">
+      <tspan x="289" y="623.914">Quê quán</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="600" width="200" height="38.0726"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="400" y="600" width="200" height="38.0726"/>
+    <text font-size="12.858" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="409" y="622.95">
+      <tspan x="409" y="622.95">Ha Noi</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #e5e5e5" x="300" y="160" width="280" height="57.2778"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="440" y="197.2">
+      <tspan x="440" y="197.2">TẠO MỚI</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="356.3" y="655.7" width="140" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4d4d4d" x="356.3" y="655.7" width="140" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="426.3" y="678.6">
+      <tspan x="426.3" y="678.6">Tạo</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="220" y="120" width="80" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="220" y="120" width="80" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="143.9">
+      <tspan x="260" y="143.9">Quay lại</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="612.365" cy="183.684" rx="18.1608" ry="18.1608"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="612.365" cy="183.684" rx="18.1608" ry="18.1608"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="612.365" y="187.584">
+      <tspan x="612.365" y="187.584"></tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="627.824" y1="194.999" x2="642.204" y2="205.524"/>
+  <g>
+    <rect style="fill: #ffffff" x="284.204" y="165.523" width="300" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="284.204" y="165.523" width="300" height="40"/>
+    <text font-size="12.8016" style="fill: #4d4d4d;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="293.204" y="189.422">
+      <tspan x="293.204" y="189.422">TÌM KIẾM</tspan>
+    </text>
+  </g>
+</svg>

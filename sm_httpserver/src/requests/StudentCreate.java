@@ -9,7 +9,7 @@ public class StudentCreate implements HttpHandler {
 
 	@Override
 	public void handle(HttpExchange arg0) throws IOException {
-		
+
 	}
 
 }

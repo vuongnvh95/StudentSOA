@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="26cm" height="32cm" viewBox="198 98 503 635" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #e5e5e5" x="200" y="100" width="500" height="632"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #4d4d4d" x="200" y="100" width="500" height="632"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="645" cy="685" rx="25" ry="25"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="645" cy="685" rx="25" ry="25"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="645" cy="685" rx="25" ry="25"/>
+  </g>
+  <g>
+    <polygon style="fill: #000000" points="630,690 630,680 640,680 640,670 650,670 650,680 660,680 660,690 650,690 650,700 640,700 640,690 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="630,690 630,680 640,680 640,670 650,670 650,680 660,680 660,690 650,690 650,700 640,700 640,690 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="630,690 630,680 640,680 640,670 650,670 650,680 660,680 660,690 650,690 650,700 640,700 640,690 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="612.365" cy="183.684" rx="18.1608" ry="18.1608"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="612.365" cy="183.684" rx="18.1608" ry="18.1608"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="612.365" y="187.584">
+      <tspan x="612.365" y="187.584"></tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="627.824" y1="194.999" x2="642.204" y2="205.524"/>
+  <g>
+    <rect style="fill: #ffffff" x="284.204" y="165.523" width="300" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="284.204" y="165.523" width="300" height="40"/>
+    <text font-size="12.8016" style="fill: #4d4d4d;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="293.204" y="189.422">
+      <tspan x="293.204" y="189.422">TÌM KIẾM</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="35cm" height="22cm" viewBox="119 239 682 439" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="120" y="240" width="320" height="380"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="240" width="320" height="380"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="433.9">
+      <tspan x="280" y="433.9"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="460" y="240" width="340" height="389"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="460" y="240" width="340" height="389"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="630" y="438.4">
+      <tspan x="630" y="438.4"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="280" width="140" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="280" width="140" height="80"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="250" y="323.9">
+      <tspan x="250" y="323.9">Web Server</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="260" width="200" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="260" width="200" height="40"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580" y="283.9">
+      <tspan x="580" y="283.9">Student manager server</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="520" y="420" width="120" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="520" y="420" width="120" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580" y="442.9">
+      <tspan x="580" y="442.9">Web Client</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="580" y1="418.999" x2="580" y2="300.981"/>
+  <g>
+    <rect style="fill: #ffffff" x="660" y="420" width="115.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="660" y="420" width="115.9" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="717.95" y="442.9">
+      <tspan x="717.95" y="442.9">Desktop Client</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="698.399" y1="458.983" x2="600.553" y2="558.993"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="700.597" y1="418.999" x2="598.204" y2="300.981"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="580" y1="458.983" x2="580" y2="558.993"/>
+  <g>
+    <path style="fill: #ffffff" d="M 540 560 L 620,560 L 620,592 L 580,600 L 540,592 L 540,560z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 540 560 L 620,560 L 620,592 L 580,600 L 540,592 L 540,560"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580" y="580">
+      <tspan x="580" y="580">User</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 200 560 L 280,560 L 280,592 L 240,600 L 200,592 L 200,560z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 200 560 L 280,560 L 280,592 L 240,600 L 200,592 L 200,560"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="240" y="580">
+      <tspan x="240" y="580">User</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 203.394,369.14 A 162.19,162.19 0 0 0 218.402,558.998"/>
+    <polygon style="fill: #000000" points="207.432,362.834 205.818,373.897 203.145,368.987 197.613,368.18 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="207.432,362.834 205.818,373.897 203.145,368.987 197.613,368.18 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 265.774,551.281 A 181.444,181.444 0 0 0 279.368,360.994"/>
+    <polygon style="fill: #000000" points="261.278,557.273 263.662,546.349 265.985,551.434 271.447,552.625 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="261.278,557.273 263.662,546.349 265.985,551.434 271.447,552.625 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="180" cy="440" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #000000" cx="180" cy="440" rx="20" ry="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="443.9">
+      <tspan x="180" y="443.9">1</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="320" y="420" width="91.05" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="320" y="420" width="91.05" height="40"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="365.525" y="443.9">
+      <tspan x="365.525" y="443.9">Web Client</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="700" cy="560" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #000000" cx="700" cy="560" rx="20" ry="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="700" y="563.9">
+      <tspan x="700" y="563.9">4</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #000000" x1="685.926" y1="545.79" x2="649.476" y2="508.988"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #000000" x1="681.594" y1="552.176" x2="580" y2="508.988"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="700" cy="320" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #000000" cx="700" cy="320" rx="20" ry="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="700" y="323.9">
+      <tspan x="700" y="323.9">3</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #000000" x1="684.305" y1="332.404" x2="649.4" y2="359.99"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #000000" x1="681.133" y1="326.288" x2="580" y2="359.99"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="300" cy="444" rx="20" ry="20"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #000000" cx="300" cy="444" rx="20" ry="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="447.9">
+      <tspan x="300" y="447.9">2</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="177.025" y="640" width="158.55" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #ffffff" x="177.025" y="640" width="158.55" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="256.3" y="662.9">
+      <tspan x="256.3" y="662.9">Hình 1 : Web services</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="495" y="640" width="242.6" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2.35099e-37; stroke: #ffffff" x="495" y="640" width="242.6" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616.3" y="662.9">
+      <tspan x="616.3" y="662.9">Hình 2 : Student manager services</tspan>
+    </text>
+  </g>
+</svg>
